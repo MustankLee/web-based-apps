@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/web-based-apps/static/css/main.8fc36ced.css",
+    "main.js": "/web-based-apps/static/js/main.66ef74f2.js",
+    "static/media/Eclipse 1.png": "/web-based-apps/static/media/Eclipse 1.0fdadb2af409ce98fde5.png",
+    "static/media/Eclipse 2.png": "/web-based-apps/static/media/Eclipse 2.1d2ed8055eb696d6f9fa.png",
+    "static/media/Logo_WA.png": "/web-based-apps/static/media/Logo_WA.8c40ee0019a52bd23b63.png",
+    "static/media/Logo.png": "/web-based-apps/static/media/Logo.c4c7282d303c7c57eeee.png",
+    "static/media/Logo_LI.png": "/web-based-apps/static/media/Logo_LI.e9db41041d38d6fb97b4.png",
+    "static/media/BG-first.png": "/web-based-apps/static/media/BG-first.e3673512c66e71865aca.png",
+    "static/media/Logo_Gmail.png": "/web-based-apps/static/media/Logo_Gmail.c057771ca433fd8a05d9.png",
+    "index.html": "/web-based-apps/index.html",
+    "main.8fc36ced.css.map": "/web-based-apps/static/css/main.8fc36ced.css.map",
+    "main.66ef74f2.js.map": "/web-based-apps/static/js/main.66ef74f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8fc36ced.css",
+    "static/js/main.66ef74f2.js"
+  ]
+}
